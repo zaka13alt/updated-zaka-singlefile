@@ -1,2 +1,2 @@
 # updated-zaka-singlefile
-zaka singlefile (udated) works for most filters, except ContentKeeper rn
+zaka singlefile (updated) works for most filters, except ContentKeeper rn
